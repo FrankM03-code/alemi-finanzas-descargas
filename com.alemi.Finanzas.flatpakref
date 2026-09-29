@@ -1,0 +1,9 @@
+[Flatpak Ref]
+Name=com.alemi.Finanzas
+Branch=master
+Title=Alemi Finanzas
+Url=https://frankm03-code.github.io/alemi-finanzas-descargas/repo/
+SuggestRemoteName=alemi
+RuntimeRepo=https://dl.flathub.org/repo/flathub.flatpakrepo
+IsRuntime=false
+GPGKey=mDMEarwOURYJKwYBBAHaRw8BAQdAt1oJucIeLa2+CxV+Kg0jcaP5UjyODLyEEc6v2igwtdu0UkFsZW1pIEZpbmFuemFzIChmaXJtYSBkZSBhY3R1YWxpemFjaW9uZXMpIDxGcmFua00wMy1jb2RlQHVzZXJzLm5vcmVwbHkuZ2l0aHViLmNvbT6IkAQTFgoAOBYhBDEWYHlHbIUmvNgqzBaNR6QGCuXlBQJqvA5RAhsDBQsJCAcCBhUKCQgLAgQWAgMBAh4BAheAAAoJEBaNR6QGCuXlAdcA/RXc586BydZPWoeCjNXbgS7A4qeXQ4jSAbYdH59lAIrtAQCfafEV2k6sNtJEaKY8fRdFIaMMiWZjFUHoDNIk6Kh/Cw==
